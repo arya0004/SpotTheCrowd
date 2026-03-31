@@ -16,29 +16,13 @@ A computer vision based yolo public transport crowd occupancy detector
 * 👤 People (occupied seats)
 * 🪑 Chairs / benches (vacant seats)
 
-It provides a **real-time estimate of occupancy** in buses, trains, or metros using images or videos.
----
-
-## ✨ Features
-
-* 📷 Upload **images or videos**
-* 🧠 Powered by **YOLOv8 (Ultralytics)**
-* 🎯 Detects:
-
-  * Person → Occupied seat
-  * Chair → Empty seat
-  * Bench → 2 empty seats
-* 📊 Displays:
-
-  * Vacant seats
-  * Occupied seats
-* 🎥 Works on **real-time video frames**
+It provides a **real-time estimate of occupancy** in buses, trains, or metros using images or videos. (Works on **real-time video frames**)
 ---
 
 ## 🖼️ Demo
 ### 🧠 Detection Output
 
-![Detection](outputimage/image.png)
+![Detection](outputimages/image.png)
 ---
 
 ## 🛠️ Tech Stack
